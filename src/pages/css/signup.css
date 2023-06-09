@@ -1,0 +1,59 @@
+body{
+    /* background: #bdc3c7;  fallback for old browsers */
+    /* background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  Chrome 10-25, Safari 5.1-6 */
+    /* background: linear-gradient(to right, #2c3e50, #bdc3c7); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-image: url("../../images/burger.jpg");
+}
+input[type="text"],
+input[type="email"], 
+input[type="password"],
+input[type="submit"]{
+    display: block; 
+    width: 70%;
+    padding: 10px 8px;
+    display: inline;
+    box-sizing: border-box;  
+    margin: 0px auto;
+    border: 30px ;
+    
+}
+
+
+.form__label{
+    display: block;  
+    
+}
+
+.h1{
+    font-size: 1rem;
+    margin-bottom: 0rem auto;
+    text-decoration: none;
+    text-align:  center;
+}
+
+.form{
+    background-color: white;
+    border-radius: 25px;
+    width: 400px;
+    margin: 10px auto;
+    padding: 2px 0px;  
+   
+}
+
+.form-body{
+    text-align: left;
+    padding: 10px 25px;
+   
+}
+
+.form-body > *{
+    padding: 10px 20px;
+}
+
+
+
+.footer{
+    text-align: center;
+    padding: 2px 5px;
+    margin: auto;
+}

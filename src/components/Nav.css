@@ -1,0 +1,136 @@
+/* 
+
+.nav-items{
+    display: flex;
+    padding: 10px 100px;
+    color: #fff;
+    text-decoration: none;
+   
+}
+.log-In{
+    display: flex;
+    padding: 0px 250px;
+    color: #ffffff;
+}
+.log-In .hover{
+    transition: all 0.2s ease-in-out;
+    background: #fff;
+    color: #ffffff
+}
+.nav-items > a{
+    text-decoration: none;
+    color: #fffdfd;
+    padding: 5px 10px;
+}
+/* .color-nav{
+    background-color: #6a6767;
+    color: rgb(255, 255, 255);;
+} */
+
+/* .nav-items li{
+    list-style: none;
+    color:#fff; 
+}
+.link{
+    color: #fff;
+    text-decoration: none;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    gap: 70px;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    padding: 0 1rem;
+    height: 100%;
+    cursor: pointer;
+    color: #e8782d; */
+   /* background-color: s#726767; */
+/*    
+} 
+
+
+/*  */
+ul{
+    text-decoration: none;
+    color: #fff;
+} 
+ .nav-items{
+    display: flex;
+    padding: 10px 80px;
+    text-emphasis-color: white;
+    text-decoration: none;
+    
+ }
+ .nav-sam{
+    text-align: justify;
+ }
+ 
+.log-In{
+    display: flex;
+    padding: 0px 200px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.nav-items > a{
+    text-decoration: none;
+    color: #fffdfd;
+    padding: 5px 10px;
+
+
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: none;
+}
+.nav{
+    display: flex;
+    height: 90px;
+    align-items: center;
+    
+    gap: 40px;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 0 1rem;
+    color: #e8782d; 
+    background-color: rgb(207, 230, 230);
+}
+.h1{
+    font-size: 4rem;
+    text-decoration: none;
+}
+
+.cart-trolley{
+    display: flex;
+    height: 50px;
+    align-items: center;
+    gap: 80px;
+    color: #ffffff;
+    padding: 0 4rem;
+    color: #e8782d;
+    font-size: 1.5rem ;
+    position: relative;
+    
+}
+.cart-trolley--link{
+    position: relative;
+}
+
+.cart-total{
+    
+    position: absolute;
+    background-color: #b8daed;
+    color: #000000;
+    border-radius: 50%;
+    border: black;
+    display: grid;
+    place-items: center;
+    top: -0%;
+    left: 52%;
+    
+}

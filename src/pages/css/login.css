@@ -1,0 +1,107 @@
+body{
+    background-image: url(../../images/pizza.jpg);
+     height: 90vh;
+}
+.background-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.login-form {
+  background-color: white;
+  padding: 20px 10px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border: solid  rgba(#000, .5);
+  border-radius: 10px;
+
+}
+.app {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    height: 85vh;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    /* background-color: #f8f9fd; */
+  }
+  
+  
+  input[type="password"],
+  input[type="heading-three"]
+  input[type="text"] {
+    height: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+  } 
+  
+  input[type="submit"] {
+    margin-top: 10px auto;
+    cursor: pointer;
+    font-size: 15px;
+    background: rgb(228, 100, 122);
+    border: 1px solid rgb(227, 93, 115);
+    color: #fff;
+    padding: 2px 0px;
+  }
+  input[type="text"],
+input[type="email"], input[type="password"], input[type="submit"]{
+    display: block; 
+    width: 70%;
+    padding: 8px 7px;
+    align-content: center;
+    box-sizing: border-box;  
+
+}
+  
+  input[type="submit"]:hover {
+    background:rgb(212, 23, 54);
+  }
+  .heading-three{
+    /* font-family: sans-serif; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; 
+    
+  }
+  .input-container{
+    align-content: center;
+    padding: 0px 2px;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+    padding: 1px 90px;
+  }
+  
+ 
+  .list-container {
+    display: flex;
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px;
+  }
+  
+  .title {
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 20px auto;
+  }
+  
+  .input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin: 25px;
+  }
+   

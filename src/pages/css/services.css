@@ -1,0 +1,103 @@
+.service-h1{
+    font-size: 1.9rem;
+   
+}
+.img-deli{
+    width: 30%;
+    height: 50%;
+}
+
+.service-h2{
+    font-size: 1.2rem;
+    font-family: 'Times New Roman', Times, serif ;
+    margin: 5px;
+    padding: 4px 8px;
+}
+
+.services{
+   text-align: center;
+}
+.services-des1{
+    font-size: 16px;
+    line-height: 1.5;
+    margin: auto;
+    padding: 10px;
+    text-align: justify;
+    Width:40%;
+    Height:50%; 
+    Top:100px;
+    Left:785px;
+    overflow: auto; 
+
+}
+.foodordering{
+    Display: Inline-Block;
+   
+    /* text-align: right; */
+   
+
+  
+}
+.food-orderingPic{
+    width: 30%;
+    height: 50%;
+    border-radius: 30px;
+}
+
+.food-h2{
+    font-size: 1.2rem;
+    font-family: 'Times New Roman', Times, serif ;
+    margin: 4px;
+    padding: 4px 6px;
+}
+.food-des1{
+    
+    font-size: 16px;
+    line-height: 1.5;
+    margin: auto;
+    padding: 5px 10px;
+    text-align: justify;
+    Width:40%;
+    Height:50%; 
+    /* top: 50px;
+    left: 500px; */
+  
+  
+
+}
+
+.fooddelivery{
+    Display: Inline-Block;
+   
+    /* text-align: right; */
+   
+
+  
+}
+.food-deliveryPic{
+    width: 30%;
+    height: 50%;
+    border-radius: 30px;
+}
+
+.food-h3{
+    font-size: 1.2rem;
+    font-family: 'Times New Roman', Times, serif ;
+    margin: 4px;
+    padding: 4px 6px;
+}
+.food-des2{
+
+    font-size: 16px;
+    line-height: 1.5;
+    margin: auto;
+    padding: 5px 10px;
+    text-align: justify;
+    Width:40%;
+    Height:50%; 
+    /* top: 50px;
+    left: 500px; */
+  
+  
+
+}
